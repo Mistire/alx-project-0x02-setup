@@ -16,6 +16,9 @@ const Header: React.FC = () => {
         <Link href="/posts" className="hover:text-gray-300">
           Posts
         </Link>
+        <Link href="/users" className="hover:text-gray-300">
+          Users
+        </Link>
       </nav>
     </header>
   );
