@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+// import { type ButtonProps }
 import { ButtonProps } from "@/interfaces";
 
 const Button: React.FC<ButtonProps> = ({
